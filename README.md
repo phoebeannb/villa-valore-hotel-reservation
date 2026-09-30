@@ -13,7 +13,7 @@ This application was built as part of a collaborative group project. My specific
 ## 🛠️ Tech Stack
 * **Backend:** PHP
 * **Database:** MySQL
-* **Frontend:** HTML5, CSS3, Bootstrap Framework
+* **Frontend:** HTML5, CSS3, JavaScript (ES6), Bootstrap Framework
 * **Tools:** XAMPP, VS Code, Git, GitHub
 
 ## ✨ Core Features
