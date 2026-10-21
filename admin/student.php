@@ -179,7 +179,7 @@ button,input,select{font:inherit}
 
 <section class="content">
   <div class="page-heading">
-    <div><div class="eyebrow">Guest Management</div><h1>Guests</h1><p>Manage guest profiles, contact details, and records.</p></div>
+    <div><div class="eyebrow">Guest Management</div><h1>Guests</h1></div>
     <button class="create-btn" id="createBtn"><i class="fas fa-plus"></i> Add Guest</button>
   </div>
 

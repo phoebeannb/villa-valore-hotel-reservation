@@ -944,8 +944,7 @@ $recentBookings = getRecentBookings(5);
 
             <div class="welcome">
                 <div>
-                    <h1>Good morning, welcome back. <?php echo $_SESSION['username']; ?></h1>
-                    <p>Here's what's happening at Villa Valore today.</p>
+                    <h1>Good morning, welcome back.</h1>
                 </div>
                 <div class="date-pill">
                     <i class="far fa-calendar"></i>
