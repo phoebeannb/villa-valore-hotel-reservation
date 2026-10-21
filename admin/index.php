@@ -1111,7 +1111,6 @@ $recentBookings = getRecentBookings(5);
                         <div class="panel-header">
                             <div>
                                 <div class="panel-title">Reservation Overview</div>
-                                <div class="panel-subtitle">Current property performance</div>
                             </div>
                         </div>
 
