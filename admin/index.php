@@ -999,7 +999,6 @@ $recentBookings = getRecentBookings(5);
                         <div class="panel-header">
                             <div>
                                 <div class="panel-title">Booking Schedule</div>
-                                <div class="panel-subtitle">Monthly reservation activity</div>
                             </div>
 
                             <div class="month-nav">
